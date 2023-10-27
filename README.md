@@ -1,4 +1,4 @@
-# Project: Statistical Analysis on Price of Pizza
+# Statistical Analysis on Price of Pizza
 By James Weaver
 
 # Introduction
