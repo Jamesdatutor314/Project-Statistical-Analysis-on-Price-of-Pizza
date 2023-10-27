@@ -1,4 +1,4 @@
-# Statistical Analysis on Price of Pizza
+# Statistical Analysis on Price of Pizza (Video)
 By James Weaver
 
 # Introduction
