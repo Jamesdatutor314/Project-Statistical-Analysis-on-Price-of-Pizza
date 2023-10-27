@@ -1,0 +1,372 @@
+Company,Type,Diameter(inches),Toppings,Price_Level,Price
+Domino's Pizza,other,10,cheese,low,5.99
+Domino's Pizza,other,12,cheese,low,7.99
+Domino's Pizza,other,14,cheese,low,9.99
+Domino's Pizza,other,12,cheese,low,7.99
+Domino's Pizza,other,10,cheese,low,5.99
+Domino's Pizza,other,12,cheese,low,7.99
+Domino's Pizza,other,14,cheese,low,9.99
+Domino's Pizza,other,14,cheese,low,9.99
+Domino's Pizza,other,16,cheese,low,11.99
+Domino's Pizza,other,10,cheese,low,8.99
+Domino's Pizza,Specialty Pizzas,10,other,low,11.99
+Domino's Pizza,Specialty Pizzas,12,other,medium,13.99
+Domino's Pizza,Specialty Pizzas,14,other,medium,15.99
+Domino's Pizza,Specialty Pizzas,16,other,high,17.99
+Domino's Pizza,Specialty Pizzas,10,other,medium,14.99
+Domino's Pizza,Specialty Pizzas,10,other,low,11.99
+Domino's Pizza,Specialty Pizzas,12,other,medium,13.99
+Domino's Pizza,Specialty Pizzas,14,other,medium,15.99
+Domino's Pizza,Specialty Pizzas,16,other,high,17.99
+Domino's Pizza,Specialty Pizzas,10,other,medium,14.99
+Domino's Pizza,Specialty Pizzas,10,hawaiian,low,11.99
+Domino's Pizza,Specialty Pizzas,12,hawaiian,medium,13.99
+Domino's Pizza,Specialty Pizzas,14,hawaiian,medium,15.99
+Domino's Pizza,Specialty Pizzas,16,hawaiian,high,17.99
+Domino's Pizza,Specialty Pizzas,10,hawaiian,medium,14.99
+Domino's Pizza,Specialty Pizzas,10,other,low,11.99
+Domino's Pizza,Specialty Pizzas,12,other,medium,13.99
+Domino's Pizza,Specialty Pizzas,14,other,medium,15.99
+Domino's Pizza,Specialty Pizzas,16,other,high,17.99
+Domino's Pizza,Specialty Pizzas,10,other,medium,14.99
+Domino's Pizza,Specialty Pizzas,10,veggie,low,11.99
+Domino's Pizza,Specialty Pizzas,12,veggie,medium,13.99
+Domino's Pizza,Specialty Pizzas,14,veggie,medium,15.99
+Domino's Pizza,Specialty Pizzas,16,veggie,high,17.99
+Domino's Pizza,Specialty Pizzas,10,veggie,medium,14.99
+Domino's Pizza,Specialty Pizzas,10,other,low,11.99
+Domino's Pizza,Specialty Pizzas,12,other,medium,13.99
+Domino's Pizza,Specialty Pizzas,14,other,medium,15.99
+Domino's Pizza,Specialty Pizzas,16,other,high,17.99
+Domino's Pizza,Specialty Pizzas,10,other,medium,14.99
+Domino's Pizza,Specialty Pizzas,10,hawaiian,low,11.99
+Domino's Pizza,Specialty Pizzas,12,hawaiian,medium,13.99
+Domino's Pizza,Specialty Pizzas,14,hawaiian,medium,15.99
+Domino's Pizza,Specialty Pizzas,16,hawaiian,high,17.99
+Domino's Pizza,Specialty Pizzas,10,hawaiian,medium,14.99
+Domino's Pizza,Specialty Pizzas,10,chicken,low,11.99
+Domino's Pizza,Specialty Pizzas,12,chicken,medium,13.99
+Domino's Pizza,Specialty Pizzas,14,chicken,medium,15.99
+Domino's Pizza,Specialty Pizzas,16,chicken,high,17.99
+Domino's Pizza,Specialty Pizzas,10,chicken,medium,14.99
+Domino's Pizza,Specialty Pizzas,10,chicken,low,11.99
+Domino's Pizza,Specialty Pizzas,12,chicken,medium,13.99
+Domino's Pizza,Specialty Pizzas,14,chicken,medium,15.99
+Domino's Pizza,Specialty Pizzas,16,chicken,high,17.99
+Domino's Pizza,Specialty Pizzas,10,chicken,medium,14.99
+Domino's Pizza,Feast Pizzas,10,other,low,11.99
+Domino's Pizza,Feast Pizzas,12,other,medium,13.99
+Domino's Pizza,Feast Pizzas,12,other,medium,15.49
+Domino's Pizza,Feast Pizzas,14,other,medium,15.99
+Domino's Pizza,Feast Pizzas,16,other,high,17.99
+Domino's Pizza,Feast Pizzas,10,other,medium,14.99
+Domino's Pizza,Feast Pizzas,10,bacon cheeseburger,low,11.99
+Domino's Pizza,Feast Pizzas,12,bacon cheeseburger,medium,13.99
+Domino's Pizza,Feast Pizzas,12,bacon cheeseburger,medium,15.49
+Domino's Pizza,Feast Pizzas,14,bacon cheeseburger,medium,15.99
+Domino's Pizza,Feast Pizzas,16,bacon cheeseburger,high,17.99
+Domino's Pizza,Feast Pizzas,10,bacon cheeseburger,medium,14.99
+Domino's Pizza,Feast Pizzas,10,supreme,low,11.99
+Domino's Pizza,Feast Pizzas,12,supreme,medium,13.99
+Domino's Pizza,Feast Pizzas,12,supreme,medium,15.49
+Domino's Pizza,Feast Pizzas,14,supreme,medium,15.99
+Domino's Pizza,Feast Pizzas,16,supreme,high,17.99
+Domino's Pizza,Feast Pizzas,10,supreme,medium,14.99
+Domino's Pizza,Feast Pizzas,10,supreme,low,11.99
+Domino's Pizza,Feast Pizzas,12,supreme,medium,13.99
+Domino's Pizza,Feast Pizzas,14,supreme,medium,15.99
+Domino's Pizza,Feast Pizzas,16,supreme,high,17.99
+Domino's Pizza,Feast Pizzas,10,supreme,medium,14.99
+Domino's Pizza,Feast Pizzas,10,meat,low,11.99
+Domino's Pizza,Feast Pizzas,12,meat,medium,13.99
+Domino's Pizza,Feast Pizzas,14,meat,medium,15.99
+Domino's Pizza,Feast Pizzas,16,meat,high,17.99
+Domino's Pizza,Feast Pizzas,10,meat,medium,14.99
+Domino's Pizza,Feast Pizzas,10,pepperoni,low,11.99
+Domino's Pizza,Feast Pizzas,12,pepperoni,medium,13.99
+Domino's Pizza,Feast Pizzas,14,pepperoni,medium,15.99
+Domino's Pizza,Feast Pizzas,16,pepperoni,high,17.99
+Domino's Pizza,Feast Pizzas,10,pepperoni,medium,14.99
+Pizza Hut,other,12,cheese,low,8.49
+Pizza Hut,other,14,cheese,low,10.49
+Pizza Hut,other,6,cheese,low,4.29
+Pizza Hut,other,12,cheese,low,8.49
+Pizza Hut,other,14,cheese,low,10.49
+Pizza Hut,other,12,cheese,low,8.49
+Pizza Hut,other,14,cheese,low,10.49
+Pizza Hut,other,14,cheese,low,12.49
+Pizza Hut,other,14,cheese,low,10.49
+Pizza Hut,Classic Recipe Pizzas,12,pepperoni,low,12.49
+Pizza Hut,Classic Recipe Pizzas,14,pepperoni,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,6,pepperoni,low,4.79
+Pizza Hut,Classic Recipe Pizzas,12,pepperoni,low,12.49
+Pizza Hut,Classic Recipe Pizzas,14,pepperoni,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,12,pepperoni,low,12.49
+Pizza Hut,Classic Recipe Pizzas,14,pepperoni,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,14,pepperoni,high,17.49
+Pizza Hut,Classic Recipe Pizzas,14,pepperoni,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,12,meat,low,12.49
+Pizza Hut,Classic Recipe Pizzas,14,meat,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,6,meat,low,4.79
+Pizza Hut,Classic Recipe Pizzas,12,meat,low,12.49
+Pizza Hut,Classic Recipe Pizzas,14,meat,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,12,meat,low,12.49
+Pizza Hut,Classic Recipe Pizzas,14,meat,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,14,meat,high,17.49
+Pizza Hut,Classic Recipe Pizzas,14,meat,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,12,other,low,12.49
+Pizza Hut,Classic Recipe Pizzas,14,other,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,6,other,low,4.79
+Pizza Hut,Classic Recipe Pizzas,12,other,low,12.49
+Pizza Hut,Classic Recipe Pizzas,14,other,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,12,other,low,12.49
+Pizza Hut,Classic Recipe Pizzas,14,other,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,14,other,high,17.49
+Pizza Hut,Classic Recipe Pizzas,14,other,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,12,veggie,low,12.49
+Pizza Hut,Classic Recipe Pizzas,14,veggie,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,6,veggie,low,4.79
+Pizza Hut,Classic Recipe Pizzas,12,veggie,low,12.49
+Pizza Hut,Classic Recipe Pizzas,14,veggie,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,12,veggie,low,12.49
+Pizza Hut,Classic Recipe Pizzas,14,veggie,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,14,veggie,high,17.49
+Pizza Hut,Classic Recipe Pizzas,14,veggie,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,12,supreme,low,12.49
+Pizza Hut,Classic Recipe Pizzas,14,supreme,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,6,supreme,low,4.79
+Pizza Hut,Classic Recipe Pizzas,12,supreme,low,12.49
+Pizza Hut,Classic Recipe Pizzas,14,supreme,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,12,supreme,low,12.49
+Pizza Hut,Classic Recipe Pizzas,14,supreme,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,14,supreme,high,17.49
+Pizza Hut,Classic Recipe Pizzas,14,supreme,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,12,other,low,12.49
+Pizza Hut,Classic Recipe Pizzas,14,other,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,6,other,low,4.79
+Pizza Hut,Classic Recipe Pizzas,12,other,low,12.49
+Pizza Hut,Classic Recipe Pizzas,14,other,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,12,other,low,12.49
+Pizza Hut,Classic Recipe Pizzas,14,other,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,14,other,high,17.49
+Pizza Hut,Classic Recipe Pizzas,14,other,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,12,supreme,low,13.49
+Pizza Hut,Classic Recipe Pizzas,14,supreme,medium,16.49
+Pizza Hut,Classic Recipe Pizzas,6,supreme,low,5.29
+Pizza Hut,Classic Recipe Pizzas,12,supreme,low,13.49
+Pizza Hut,Classic Recipe Pizzas,14,supreme,medium,16.49
+Pizza Hut,Classic Recipe Pizzas,12,supreme,low,13.49
+Pizza Hut,Classic Recipe Pizzas,14,supreme,medium,16.49
+Pizza Hut,Classic Recipe Pizzas,14,supreme,high,18.49
+Pizza Hut,Classic Recipe Pizzas,14,supreme,medium,16.49
+Pizza Hut,Classic Recipe Pizzas,12,meat,low,12.49
+Pizza Hut,Classic Recipe Pizzas,14,meat,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,6,meat,low,4.79
+Pizza Hut,Classic Recipe Pizzas,12,meat,low,12.49
+Pizza Hut,Classic Recipe Pizzas,14,meat,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,12,meat,low,12.49
+Pizza Hut,Classic Recipe Pizzas,14,meat,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,14,meat,high,17.49
+Pizza Hut,Classic Recipe Pizzas,14,meat,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,12,hawaiian,low,12.49
+Pizza Hut,Classic Recipe Pizzas,14,hawaiian,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,6,hawaiian,low,4.79
+Pizza Hut,Classic Recipe Pizzas,12,hawaiian,low,12.49
+Pizza Hut,Classic Recipe Pizzas,14,hawaiian,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,12,hawaiian,low,12.49
+Pizza Hut,Classic Recipe Pizzas,14,hawaiian,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,14,hawaiian,high,17.49
+Pizza Hut,Classic Recipe Pizzas,14,hawaiian,medium,15.49
+Pizza Hut,Classic Recipe Pizzas,12,supreme,low,13.49
+Pizza Hut,Classic Recipe Pizzas,14,supreme,medium,16.49
+Pizza Hut,Classic Recipe Pizzas,6,supreme,low,5.29
+Pizza Hut,Classic Recipe Pizzas,12,supreme,low,13.49
+Pizza Hut,Classic Recipe Pizzas,14,supreme,medium,16.49
+Pizza Hut,Classic Recipe Pizzas,12,supreme,low,13.49
+Pizza Hut,Classic Recipe Pizzas,14,supreme,medium,16.49
+Pizza Hut,Classic Recipe Pizzas,14,supreme,high,18.49
+Pizza Hut,Classic Recipe Pizzas,14,supreme,medium,16.49
+Pizza Hut,other,12,other,low,12.49
+Pizza Hut,other,14,other,medium,15.49
+Pizza Hut,other,6,other,low,4.79
+Pizza Hut,other,12,other,low,12.49
+Pizza Hut,other,14,other,medium,15.49
+Pizza Hut,other,12,other,low,12.49
+Pizza Hut,other,14,other,medium,15.49
+Pizza Hut,other,12,other,low,12.49
+Pizza Hut,other,14,other,medium,15.49
+Pizza Hut,other,12,other,low,12.49
+Pizza Hut,other,14,other,medium,15.49
+Pizza Hut,other,12,bacon cheeseburger,low,12.49
+Pizza Hut,other,14,bacon cheeseburger,medium,15.49
+Pizza Hut,other,12,chicken,low,12.49
+Pizza Hut,other,14,chicken,medium,15.49
+Pizza Hut,other,12,chicken,low,12.49
+Pizza Hut,other,14,chicken,medium,15.49
+Pizza Hut,other,12,other,low,12.49
+Pizza Hut,other,14,other,medium,15.49
+Pizza Hut,other,12,other,low,12.49
+Pizza Hut,other,14,other,medium,15.49
+Pizza Hut,other,14,other,medium,15.49
+Pizza Hut,other,14,other,medium,15.49
+Pizza Hut,other,14,other,medium,15.49
+Pizza Hut,other,14,other,medium,15.49
+Pizza Hut,other,14,other,medium,15.49
+Pizza Hut,other,8,other,low,9.99
+Godfather's Pizza,other,6,cheese,low,4.99
+Godfather's Pizza,other,8,cheese,low,10.99
+Godfather's Pizza,other,12,cheese,low,12.99
+Godfather's Pizza,other,12,cheese,low,13.49
+Godfather's Pizza,other,14,cheese,medium,15.99
+Godfather's Pizza,other,14,cheese,medium,16.49
+Godfather's Pizza,other,18,cheese,high,18.99
+Godfather's Pizza,Specialty Pizzas,6,meat,low,5.99
+Godfather's Pizza,Specialty Pizzas,8,meat,medium,15.99
+Godfather's Pizza,Specialty Pizzas,12,meat,high,19.99
+Godfather's Pizza,Specialty Pizzas,12,meat,high,22.24
+Godfather's Pizza,Specialty Pizzas,14,meat,high,23.99
+Godfather's Pizza,Specialty Pizzas,14,meat,high,27.99
+Godfather's Pizza,Specialty Pizzas,6,bacon cheeseburger,low,5.99
+Godfather's Pizza,Specialty Pizzas,8,bacon cheeseburger,medium,15.99
+Godfather's Pizza,Specialty Pizzas,12,bacon cheeseburger,high,19.99
+Godfather's Pizza,Specialty Pizzas,12,bacon cheeseburger,high,22.24
+Godfather's Pizza,Specialty Pizzas,14,bacon cheeseburger,high,23.99
+Godfather's Pizza,Specialty Pizzas,14,bacon cheeseburger,high,26.23
+Godfather's Pizza,Specialty Pizzas,18,bacon cheeseburger,high,27.99
+Godfather's Pizza,Specialty Pizzas,6,other,low,5.99
+Godfather's Pizza,Specialty Pizzas,8,other,medium,15.99
+Godfather's Pizza,Specialty Pizzas,12,other,high,19.99
+Godfather's Pizza,Specialty Pizzas,12,other,high,22.24
+Godfather's Pizza,Specialty Pizzas,14,other,high,23.99
+Godfather's Pizza,Specialty Pizzas,14,other,high,26.23
+Godfather's Pizza,Specialty Pizzas,18,other,high,27.99
+Godfather's Pizza,Specialty Pizzas,6,supreme,low,5.99
+Godfather's Pizza,Specialty Pizzas,8,supreme,medium,15.99
+Godfather's Pizza,Specialty Pizzas,12,supreme,high,19.99
+Godfather's Pizza,Specialty Pizzas,12,supreme,high,22.24
+Godfather's Pizza,Specialty Pizzas,14,supreme,high,23.99
+Godfather's Pizza,Specialty Pizzas,14,supreme,high,26.23
+Godfather's Pizza,Specialty Pizzas,18,supreme,high,27.99
+Godfather's Pizza,Specialty Pizzas,6,other,low,5.99
+Godfather's Pizza,Specialty Pizzas,8,other,medium,15.99
+Godfather's Pizza,Specialty Pizzas,12,other,high,19.99
+Godfather's Pizza,Specialty Pizzas,12,other,high,22.24
+Godfather's Pizza,Specialty Pizzas,14,other,high,23.99
+Godfather's Pizza,Specialty Pizzas,14,other,high,26.23
+Godfather's Pizza,Specialty Pizzas,18,other,high,27.99
+Godfather's Pizza,Specialty Pizzas,6,veggie,low,5.99
+Godfather's Pizza,Specialty Pizzas,8,veggie,medium,15.99
+Godfather's Pizza,Specialty Pizzas,12,veggie,high,19.99
+Godfather's Pizza,Specialty Pizzas,12,veggie,high,22.24
+Godfather's Pizza,Specialty Pizzas,14,veggie,high,23.99
+Godfather's Pizza,Specialty Pizzas,14,veggie,high,26.23
+Godfather's Pizza,Specialty Pizzas,18,veggie,high,27.99
+Godfather's Pizza,Specialty Pizzas,6,other,low,5.99
+Godfather's Pizza,Specialty Pizzas,8,other,medium,15.99
+Godfather's Pizza,Specialty Pizzas,12,other,high,19.99
+Godfather's Pizza,Specialty Pizzas,12,other,high,22.24
+Godfather's Pizza,Specialty Pizzas,14,other,high,23.99
+Godfather's Pizza,Specialty Pizzas,14,other,high,26.23
+Godfather's Pizza,Specialty Pizzas,18,other,high,27.99
+Godfather's Pizza,Specialty Pizzas,6,hawaiian,low,5.99
+Godfather's Pizza,Specialty Pizzas,8,hawaiian,medium,15.99
+Godfather's Pizza,Specialty Pizzas,12,hawaiian,high,19.99
+Godfather's Pizza,Specialty Pizzas,12,hawaiian,high,22.24
+Godfather's Pizza,Specialty Pizzas,14,hawaiian,high,23.99
+Godfather's Pizza,Specialty Pizzas,14,hawaiian,high,26.23
+Godfather's Pizza,Specialty Pizzas,18,hawaiian,high,27.99
+Godfather's Pizza,Specialty Pizzas,6,other,low,5.99
+Godfather's Pizza,Specialty Pizzas,8,other,medium,15.99
+Godfather's Pizza,Specialty Pizzas,12,other,high,19.99
+Godfather's Pizza,Specialty Pizzas,12,other,high,22.24
+Godfather's Pizza,Specialty Pizzas,14,other,high,23.99
+Godfather's Pizza,Specialty Pizzas,14,other,high,26.23
+Godfather's Pizza,Specialty Pizzas,18,other,high,27.99
+Godfather's Pizza,Specialty Pizzas,6,chicken,low,5.99
+Godfather's Pizza,Specialty Pizzas,8,chicken,medium,15.99
+Godfather's Pizza,Specialty Pizzas,12,chicken,high,19.99
+Godfather's Pizza,Specialty Pizzas,12,chicken,high,22.24
+Godfather's Pizza,Specialty Pizzas,14,chicken,high,23.99
+Godfather's Pizza,Specialty Pizzas,14,chicken,high,26.23
+Godfather's Pizza,Specialty Pizzas,18,chicken,high,27.99
+Godfather's Pizza,Specialty Pizzas,8,supreme,medium,16.99
+Godfather's Pizza,Specialty Pizzas,12,supreme,high,21.99
+Godfather's Pizza,Specialty Pizzas,12,supreme,high,22.49
+Godfather's Pizza,Specialty Pizzas,14,supreme,high,25.99
+Godfather's Pizza,Specialty Pizzas,14,supreme,high,26.49
+Godfather's Pizza,Specialty Pizzas,18,supreme,high,29.99
+Godfather's Pizza,Specialty Pizzas,8,hawaiian,medium,16.99
+Godfather's Pizza,Specialty Pizzas,12,hawaiian,high,21.99
+Godfather's Pizza,Specialty Pizzas,12,hawaiian,high,22.49
+Godfather's Pizza,Specialty Pizzas,14,hawaiian,high,25.99
+Godfather's Pizza,Specialty Pizzas,14,hawaiian,high,26.49
+Godfather's Pizza,Specialty Pizzas,18,hawaiian,high,29.99
+Godfather's Pizza,Specialty Pizzas,8,other,medium,16.99
+Godfather's Pizza,Specialty Pizzas,12,other,high,21.99
+Godfather's Pizza,Specialty Pizzas,12,other,high,22.49
+Godfather's Pizza,Specialty Pizzas,14,other,high,25.99
+Godfather's Pizza,Specialty Pizzas,14,other,high,26.49
+Godfather's Pizza,Specialty Pizzas,18,other,high,29.99
+Godfather's Pizza,Specialty Pizzas,8,other,medium,16.99
+Godfather's Pizza,Specialty Pizzas,12,other,high,21.99
+Godfather's Pizza,Specialty Pizzas,12,other,high,22.49
+Godfather's Pizza,Specialty Pizzas,14,other,high,25.99
+Godfather's Pizza,Specialty Pizzas,14,other,high,26.49
+Godfather's Pizza,Specialty Pizzas,18,other,high,29.99
+Godfather's Pizza,Specialty Pizzas,8,veggie,medium,15.99
+Godfather's Pizza,Specialty Pizzas,12,veggie,high,20.99
+Godfather's Pizza,Specialty Pizzas,12,veggie,high,22.49
+Godfather's Pizza,Specialty Pizzas,14,veggie,high,24.99
+Godfather's Pizza,Specialty Pizzas,14,veggie,high,26.49
+Godfather's Pizza,Specialty Pizzas,18,veggie,high,28.99
+Godfather's Pizza,Specialty Pizzas,6,bacon cheeseburger,low,5.99
+Godfather's Pizza,Specialty Pizzas,8,bacon cheeseburger,medium,15.99
+Godfather's Pizza,Specialty Pizzas,12,bacon cheeseburger,high,19.99
+Godfather's Pizza,Specialty Pizzas,12,bacon cheeseburger,high,22.24
+Godfather's Pizza,Specialty Pizzas,14,bacon cheeseburger,high,23.99
+Godfather's Pizza,Specialty Pizzas,14,bacon cheeseburger,high,26.23
+Godfather's Pizza,Specialty Pizzas,18,bacon cheeseburger,high,27.99
+Godfather's Pizza,Specialty Pizzas,6,other,low,5.99
+Godfather's Pizza,Specialty Pizzas,8,other,medium,15.99
+Godfather's Pizza,Specialty Pizzas,12,other,high,19.99
+Godfather's Pizza,Specialty Pizzas,12,other,high,22.24
+Godfather's Pizza,Specialty Pizzas,14,other,high,23.99
+Godfather's Pizza,Specialty Pizzas,14,other,high,26.23
+Godfather's Pizza,Specialty Pizzas,18,other,high,27.99
+Godfather's Pizza,Specialty Pizzas,12,other,low,9.99
+Godfather's Pizza,Specialty Pizzas,14,other,medium,13.99
+Godfather's Pizza,Specialty Pizzas,12,other,low,11.99
+Godfather's Pizza,Specialty Pizzas,14,other,medium,15.99
+Godfather's Pizza,other,12,cheese,high,19.99
+Godfather's Pizza,other,14,cheese,high,23.99
+Godfather's Pizza,other,6,cheese,low,4.99
+Godfather's Pizza,other,8,cheese,low,12.69
+Godfather's Pizza,other,12,cheese,medium,15.34
+Godfather's Pizza,other,12,cheese,medium,15.24
+Godfather's Pizza,other,14,cheese,high,18.69
+Godfather's Pizza,other,14,cheese,high,18.74
+Godfather's Pizza,other,18,cheese,high,21.99
+IMO's Pizza,Specialty Pizzas,10,supreme,low,12.7
+IMO's Pizza,Specialty Pizzas,12,supreme,medium,16.2
+IMO's Pizza,Specialty Pizzas,14,supreme,high,19.95
+IMO's Pizza,Specialty Pizzas,16,supreme,high,23.85
+IMO's Pizza,Specialty Pizzas,10,veggie,low,12.7
+IMO's Pizza,Specialty Pizzas,12,veggie,medium,16.2
+IMO's Pizza,Specialty Pizzas,14,veggie,high,19.95
+IMO's Pizza,Specialty Pizzas,16,veggie,high,23.85
+IMO's Pizza,Specialty Pizzas,10,cheese,low,9.3
+IMO's Pizza,Specialty Pizzas,12,cheese,low,11.6
+IMO's Pizza,Specialty Pizzas,14,cheese,medium,14.45
+IMO's Pizza,Specialty Pizzas,16,cheese,medium,17.35
+IMO's Pizza,Specialty Pizzas,10,meat,low,12.7
+IMO's Pizza,Specialty Pizzas,12,meat,medium,16.2
+IMO's Pizza,Specialty Pizzas,14,meat,high,19.95
+IMO's Pizza,Specialty Pizzas,16,meat,high,23.85
+IMO's Pizza,Specialty Pizzas,10,chicken,low,12.7
+IMO's Pizza,Specialty Pizzas,12,chicken,medium,16.2
+IMO's Pizza,Specialty Pizzas,14,chicken,high,19.2
+IMO's Pizza,Specialty Pizzas,16,chicken,high,23.85
+IMO's Pizza,Specialty Pizzas,10,other,low,11.8
+IMO's Pizza,Specialty Pizzas,12,other,medium,14.95
+IMO's Pizza,Specialty Pizzas,14,other,high,18.65
+IMO's Pizza,Specialty Pizzas,16,other,high,22.3
